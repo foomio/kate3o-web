@@ -2,6 +2,8 @@
 - set up a news letter to get email updates
 - no need to sign up for anything, just watch the content
 - like, comment and share button (copy link,snapchat,facebook,twitter,instagram,send text message)
-- live! - sign on when you are streaming similar to the one on the balcony
+- live! (on air) - sign on when you are streaming similar to the one on the balcony
 - red makeup look
 - post short, long ,pic etc any media i want
+- topanga and ashley banks inspired outfits
+- aws :
