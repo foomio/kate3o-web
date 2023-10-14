@@ -56,4 +56,4 @@ I welcome contributions, ideas, and suggestions. If you have a fashion tip, make
 
 As a project born out of passion and love for fashion and web programming. The content on this website is available under the [MIT License](LICENSE), granting you the freedom to use, share, and modify the content while complying with the terms of the MIT License.
 
-Thank you for visiting KATE3O. I hope you find this website inspiring and that it adds a touch of chic to your fashion and beauty journey.
+Thank you for visiting KATE3O. I hope you find this website inspiring and that it adds a touch of woah to your fashion and beauty journey.
