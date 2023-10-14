@@ -28,7 +28,7 @@ KATE3O is a website where I combine my passion for fashion, makeup, and web prog
 - Read articles on beauty product reviews, skincare routines, and style advice.
 
 ### 4. User Interaction
-- Engage with in KATE3O with Reactions!❤️
+- Engage within KATE3O with Reactions!❤️
 
 ## Getting Started
 
