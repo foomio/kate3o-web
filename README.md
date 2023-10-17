@@ -33,7 +33,7 @@ Welcome to **KATE3O**, your go-to source for all things fashion and makeup inspi
 
 ## Getting Started
 
-To explore KATE3O and get inspired by the latest fashion trends and makeup tutorials, simply visit the website at [www.kate3o.tv](https://www.kate3o.tv). 🌐🚀
+To explore KATE3O and get inspired by the latest fashion trends and makeup tutorials, simply visit the website at [www.kate3o.tv](https://www.kate3o.tv). 🌐🚀--stiil in dev
 
 ## How to Use KATE3O
 
