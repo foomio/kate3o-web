@@ -1,4 +1,4 @@
-# KATE3O Inspiration & Tutorial Website
+# KATE3O Inspiration & Tutorial Website -- Example with some sample code
 
 Welcome to **KATE3O**, your go-to source for all things fashion and makeup inspiration! 💃🌟💄 I made KATE3O to showcase my love for fashion and my web programming. Explore the KATE3O world of style, discover new looks, and get inspired.
 
